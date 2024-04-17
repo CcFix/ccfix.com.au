@@ -1,0 +1,178 @@
+baseURL: https://ccfix.com.au
+languageCode: en-us
+title: CCFix Just Solution
+
+module:
+  # uncomment line below for local development of module
+  # workspace: hugo.work
+  imports:
+    path: github.com/StefMa/hugo-fresh
+
+
+googleAnalytics: G-L55LRDK93E
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy
+  description:
+  # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
+  # preloader: false
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+    image: logos/CCFix(2).svg
+    link: /
+    # Default width/height. Uncomment if you need to change
+    # width: 112
+    # height: 28
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: Just. Solution.
+    # Hero subtitle (optional)
+    subtitle: At CCFix, we simplify technology for you. Ideal for small businesses and personal users, our services keep your devices running smoothly, enabling your growth.
+    # Button text
+    buttontext: Get started
+    # Where the main hero button links to
+    buttonlink: "#"
+    # Hero image (from static/images/___)
+    image: illustrations/worker.svg
+    # Footer logos (from static/images/logos/clients/*.svg)
+    # urls are optional
+    clientlogos:
+    - logo: apple
+    - logo: samsung
+    - logo: pixel
+    - logo: lenovo
+    - logo: dell
+
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Who We Are
+    url: /who-we-are/
+  - title: Request a Quote
+    url: /
+    button: true
+    
+  section1:
+    title: Great skill comes 
+    subtitle: with great solutions
+    tiles:
+    - title: Mobile Phone Fix
+      icon: mobile-feed
+      text: Quick and reliable mobile phone repairs at CCFix.
+      buttonText: Get Your Free Quote
+    - title: Computer Fix
+      icon: laptop-cloud
+      text: get your PC or laptop back in top shape.
+      buttonText: Get Your Free Quote
+    - title: Tablet Repair
+      icon: doc-sync
+      text: Reliable and swift tablet repair services at CCFix
+      buttonText: Get Your Free Quote
+  section2:
+    title: You're here because you want the best
+    subtitle: And we know it
+    features:
+    - title: Computer Repair Solutions
+      text: From slow-running PCs to MacBook upgrades, CCFix handles it all. We specialize in operation system installation, hardware upgrades, and system optimizations, making your computer run faster and more efficiently.
+      # Icon (from /images/illustrations/icons/___.svg)
+      icon: laptop-globe
+    - title: Phone Repair Services
+      text: Fix your iPhone or Android phone with CCFix. Our services include cracked screen repairs, battery replacement, and charging port fixes, ensuring your smartphone operates at peak performance.
+      icon: doc-sync
+    - title: Tablet Repair Expertise
+      text: Whether it's an iPad or Android tablet, trust CCFix for reliable repair services. We expertly address broken screens, battery issues, and software malfunctions to restore your device's functionality.
+      icon: mobile-feed
+  section4:
+    title: Our Clients love us!
+    subtitle: Discover why our clients trust us for all their repair needs. With top-notch service and lasting solutions, see how we make technology troubles disappear. Join our satisfied customers today!
+    clients:
+    - name: Irma Walters
+      quote: Just got my iPhone's back glass fixed at CCFix, and it looks brand new! Super fast service and great prices too. Highly recommended!
+      job: Accountant
+      img: 1
+    - name: John Bradley
+      quote: My laptop was overheating like crazy, but CCFix sorted it out in no time. It's running cool and smooth now, thanks to their expert care!
+      job: Financial Analyst
+      img: 2
+    - name: Gary Blackman
+      quote: After my tablet screen cracked, I took it to CCFix, and they replaced the touchscreen so quickly! It’s as good as new, and the touch is perfect again.
+      job: HR Manager
+      img: 3
+  section5:
+    subtitle: Tell us about your device's issue and model here.
+    title: We'd love to hear from you
+    buttonText: Free Quote
+    action: https://formspree.io/f/mqkrgnvj
+    method: POST
+  footer:
+    # Logo (from /images/logos/___)
+    logo: CCFix(1).svg
+    # Social Media Title
+    socialmediatitle: Follow Us
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    - link: /
+      # Icons are from Font Awesome
+      icon: instagram
+    - link: /
+      icon: map
+    - link: /
+      icon: facebook
+    - link: /
+      icon: twitter
+    - link: /
+      icon: tiktok
+    bulmalogo: false
+    quicklinks:
+      column1:
+        title: "Apple"
+        links:
+        - text: iPhone Battery Repair
+          link: /iphone-battery-repair
+        - text: iPhone Back Glass Repair
+          link: /iphone-back-glass-repair/
+        - text: iPhone Screen Fix
+          link: /iphone-screen-replacement-sydney
+        - text: iPhone Charging Issue
+          link: /iphone-charging-port-repair
+        - text: iPhone Camera Repair
+          link: /iphone-back-front-camera-repair
+        
+      column2:
+        title: "Samsung"
+        links:
+        - text: Galaxy Screen Repair
+          link: /samsung-galaxy-screen-replacement
+        - text: Galaxy Battery Service
+          link: /samsung-galaxy-battery-replacement
+        - text: Galaxy Camera Repair
+          link: /samsung-galaxy-camera-repairs
+        - text: Galaxy Charging Port Fix
+          link: /samsung-galaxy-charging-port-repair
+        - text: Galaxy Back Glass Repair
+          link: /samsung-galaxy-back-glass-replacement
+      column3:
+        title: "Google"
+        links:
+        - text: Pixel Cracked Screen
+          link: /pixel-screen-replacement
+        - text: Pixel Battery Repair
+          link: /google-pixel-battery-replacement
+        - text: Pixel Charging Issues
+          link: /google-pixel-charging-port-repair
+        - text: Pixel Camera Issues
+          link: /google-pixel-camera-repair
+        - text: Pixel Back Glass Fix
+          link: /google-pixel-back-glass-repair-replacement
+          
