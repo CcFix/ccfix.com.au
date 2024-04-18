@@ -9,7 +9,7 @@ module:
     path: github.com/StefMa/hugo-fresh
 
 
-googleAnalytics: G-L55LRDK93E
+googleAnalytics: https://www.googletagmanager.com/gtag/js?id=G-L55LRDK93E
 disableKinds:
 - taxonomy
 - taxonomyTerm
