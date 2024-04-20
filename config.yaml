@@ -111,7 +111,7 @@ params:
       img: 3
   section5:
     subtitle: Tell us about your device's issue and model here.
-    title: We'd love to hear from you
+    title: Request a Quote
     buttonText: Free Quote
     action: https://formspree.io/f/mqkrgnvj
     method: POST
