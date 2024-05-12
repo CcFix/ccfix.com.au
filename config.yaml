@@ -9,7 +9,9 @@ module:
     path: github.com/StefMa/hugo-fresh
 
 enableRobotsTXT: true
-googleAnalytics: "https://www.googletagmanager.com/gtag/js?id=G-L55LRDK93E"
+googleAnalytics: "G-L55LRDK93E"
+googleAnalytics: G-L55LRDK93E
+
 disableKinds:
 - taxonomy
 - taxonomyTerm
