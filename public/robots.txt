@@ -1,7 +1,1 @@
 User-agent: *
-Disallow: /iphone
-Disallow: /galaxy
-Disallow: /laptop
-Disallow: /pixel
-
-sitemap: https://ccfix.com.au/sitemap

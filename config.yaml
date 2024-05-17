@@ -10,8 +10,8 @@ module:
 
 enableRobotsTXT: true
 enableSitemap: true
-googleAnalytics: "G-L55LRDK93E"
-googleAnalytics: G-L55LRDK93E
+
+googleAnalytics: https://www.googletagmanager.com/gtag/js?id=G-L55LRDK93E
 
 disableKinds:
 - taxonomy
