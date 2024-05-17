@@ -9,6 +9,7 @@ module:
     path: github.com/StefMa/hugo-fresh
 
 enableRobotsTXT: true
+enableSitemap: true
 googleAnalytics: "G-L55LRDK93E"
 googleAnalytics: G-L55LRDK93E
 
@@ -62,7 +63,7 @@ params:
   - title: Who We Are
     url: /who-we-are/
   - title: Request a Quote
-    url: /
+    url: /who-we-are
     button: true
     
   section1:
