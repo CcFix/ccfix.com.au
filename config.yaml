@@ -9,7 +9,7 @@ module:
     path: github.com/StefMa/hugo-fresh
 
 enableRobotsTXT: true
-enableSitemap: true
+enableSitemap: false
 
 googleAnalytics: https://www.googletagmanager.com/gtag/js?id=G-L55LRDK93E
 
