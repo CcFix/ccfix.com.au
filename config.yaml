@@ -44,9 +44,9 @@ params:
     # Hero subtitle (optional)
     subtitle: At CCFix, we simplify technology for you. Ideal for small businesses and personal users, our services keep your devices running smoothly, enabling your growth.
     # Button text
-    buttontext: Get started
+    buttontext: Who We Are
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: /who-we-are
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/*.svg)
@@ -63,7 +63,7 @@ params:
   - title: Who We Are
     url: /who-we-are/
   - title: Request a Quote
-    url: /who-we-are
+    url: https://form.jotform.com/241402975332857
     button: true
     
   section1:
@@ -74,14 +74,17 @@ params:
       icon: mobile-feed
       text: Quick and reliable mobile phone repairs at CCFix.
       buttonText: Get Your Free Quote
+      url: https://form.jotform.com/241402975332857
     - title: Computer Fix
       icon: laptop-cloud
       text: get your PC or laptop back in top shape.
       buttonText: Get Your Free Quote
+      url: https://form.jotform.com/241402975332857
     - title: Tablet Repair
       icon: doc-sync
       text: Reliable and swift tablet repair services at CCFix
       buttonText: Get Your Free Quote
+      url: https://form.jotform.com/241402975332857
   section2:
     title: You're here because you want the best
     subtitle: And we know it
@@ -112,28 +115,23 @@ params:
       quote: After my tablet screen cracked, I took it to CCFix, and they replaced the touchscreen so quickly! It’s as good as new, and the touch is perfect again.
       job: HR Manager
       img: 3
-  section5:
-    subtitle: Tell us about your device's issue and model here.
-    title: Request a Quote
-    buttonText: Free Quote
-    action: https://formspree.io/f/mqkrgnvj
-    method: POST
+
   footer:
     # Logo (from /images/logos/___)
     logo: CCFix(1).svg
     # Social Media Title
-    socialmediatitle: Follow Us
+    socialmediatitle: Free Quote
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: /
+    - link: https://form.jotform.com/241402975332857
       # Icons are from Font Awesome
+      icon: envelope
+    - link: https://form.jotform.com/241402975332857
+      icon: envelope
+    - link: /
       icon: instagram
     - link: /
-      icon: map
-    - link: /
-      icon: facebook
-    - link: /
-      icon: twitter
+      icon: map-pin
     - link: /
       icon: tiktok
     bulmalogo: false
