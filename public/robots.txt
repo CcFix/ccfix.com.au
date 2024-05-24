@@ -1,3 +1,1 @@
 User-agent: *
-
-Sitemap: https://www.ccfix.com.au/sitemap.xml
