@@ -85,4 +85,4 @@ Regular maintenance and prompt attention to charging port issues can keep your S
 
 For more information on related services, check out our article on [Laptop Battery Replacement](https://ccfix.com.au/laptop-battery-replacement).
 
-[Get a free quote](https://form.jotform.com/241402975332857) on Samsung Galaxy S21 charging port replacement today!
+## [Get a free quote](https://form.jotform.com/241402975332857) on Samsung Galaxy S21 charging port replacement today!
