@@ -11,7 +11,7 @@ module:
 enableRobotsTXT: true
 enableSitemap: true
 
-googleAnalytics: "G-L55LRDK93E"
+googleAnalytics: 'G-L55LRDK93E'
 
 disableKinds:
 - taxonomy
