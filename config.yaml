@@ -127,13 +127,11 @@ params:
       # Icons are from Font Awesome
       icon: envelope
     - link: https://form.jotform.com/241402975332857
-      icon: envelope
-    - link: /
       icon: instagram
-    - link: /
+    - link: /https://maps.app.goo.gl/AbisHTXzq2XqgA8c7
       icon: map-pin
-    - link: /
-      icon: tiktok
+    - link: /https://maps.app.goo.gl/AbisHTXzq2XqgA8c7
+
     bulmalogo: false
     quicklinks:
       column1:
