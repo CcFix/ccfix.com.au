@@ -128,9 +128,9 @@ params:
       icon: envelope
     - link: https://form.jotform.com/241402975332857
       icon: instagram
-    - link: /https://maps.app.goo.gl/AbisHTXzq2XqgA8c7
+    - link: https://maps.app.goo.gl/AbisHTXzq2XqgA8c7
       icon: map-pin
-    - link: /https://maps.app.goo.gl/AbisHTXzq2XqgA8c7
+    - link: https://maps.app.goo.gl/AbisHTXzq2XqgA8c7
 
     bulmalogo: false
     quicklinks:
