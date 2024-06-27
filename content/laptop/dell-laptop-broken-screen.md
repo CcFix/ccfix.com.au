@@ -43,7 +43,7 @@ Look out for symptoms such as flickering, lines across the screen, black spots, 
 While DIY repairs might seem cost-effective, professional services offer reliability and quality assurance, minimizing the risk of further damage.
 
 ### **5. Average Cost of Dell Laptop Screen Repair**
-The cost of repairing a Dell laptop screen varies based on the model and extent of the damage, typically ranging from $150 to $300.
+The cost of repairing a Dell laptop screen varies based on the model and extent of the damage, typically ranging from $149 to $899.
 
 ## **6. Step-by-Step Guide to DIY Dell Laptop Screen Replacement**
 For those comfortable with DIY, here's a step-by-step guide to replacing your Dell laptop screen, ensuring you have the right tools and follow each step carefully.
