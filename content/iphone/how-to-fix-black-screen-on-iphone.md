@@ -77,7 +77,7 @@ Hear from satisfied customers who have experienced our top-notch repair services
 Regular maintenance and prompt attention to black screen issues can keep your iPhone running smoothly. Trust CCFix in Sydney for reliable and professional repair services.
 
 
-For more information on related services, check out our article on [iPhone Battery Replacement](https://ccfix.com.au/iphone-battery-replacement).
+For more information on related services, check out our article on [iPhone Battery Replacement](https://ccfix.com.au/iphone-battery-repair).
 
 
  ## [CCFix Free Quote](https://form.jotform.com/241402975332857)
