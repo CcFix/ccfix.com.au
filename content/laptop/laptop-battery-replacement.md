@@ -85,6 +85,6 @@ Tips and best practices for maintaining your laptop battery and preventing futur
 Regular maintenance and prompt attention to battery issues can keep your laptop running smoothly. Trust CCFix in Sydney for reliable and professional repair services.
 
 
-For more information on related services, check out our article on [Laptop Screen Replacement](https://ccfix.com.au/laptop-screen-replacement).
+For more information on related services, check out our article on [Laptop Screen Replacement](https://ccfix.com.au/laptop-screen-replacement-austuralia).
 
 [Get a free quote](https://form.jotform.com/241402975332857) on laptop battery replacement today!
