@@ -41,8 +41,8 @@ Our services are not just limited to Merrylands. We proudly serve the surroundin
 
 For more information on our other services, check out these articles:
 
-- [iPhone Screen Replacement](iphone-screen-replacement)
-- [iPhone Charging Port Repair](iphone-charging-port-repair)
+- [iPhone Screen Replacement](https://ccfix.com.au/iphone-screen-replacement-sydney/)
+- [iPhone Charging Port Repair](https://ccfix.com.au/iphone-charging-port-repair/)
 
 
 Don't let a failing battery disrupt your day. Trust CCFix for all your iPhone repair needs in Merrylands and surrounding areas!
