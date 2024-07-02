@@ -27,7 +27,7 @@ params:
   # Used as meta data; describe your site to make Google Bots happy
   description: CCFix offers expert mobile phone and laptop repair services in Sydney. Specializing in screen replacements, battery issues, and more, our experienced technicians provide fast and reliable solutions. Get a free quote today and experience top-quality service at affordable prices.
   # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
-  # preloader: false
+  preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
     image: logos/CCFix(2).svg
