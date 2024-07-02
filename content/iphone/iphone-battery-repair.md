@@ -1,7 +1,7 @@
 ---
 title: "iPhone Battery Repair in Sydney"
 description: "Get top-notch iPhone battery repair services in Merrylands and surrounding areas with CCFix. Expert technicians, affordable prices, and fast service. Contact us for a free quote today!"
-summary: "Is your iPhone battery draining quickly or shutting down unexpectedly? If you're in Merrylands or surrounding areas, CCFix is your go-to solution for fast, reliable, and affordable iPhone battery repair. Our expert technicians are skilled in handling all iPhone models, ensuring your device gets the best care possible."
+summary: "Is your iPhone battery draining quickly or shutting down unexpectedly? If you are in Merrylands or surrounding areas, CCFix is your go-to solution for fast, reliable, and affordable iPhone battery repair. Our expert technicians are skilled in handling all iPhone models, ensuring your device gets the best care possible."
 url: iphone-battery-repair
 sidebar: true
 include_footer: true
