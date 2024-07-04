@@ -62,7 +62,7 @@ For more details, visit our website or drop by our Merrylands location.
 For more information on our other services, check out these articles:
 
 - [Laptop Screen Repair](https://ccfix.com.au/laptop-screen-repair/)
-- [Virus Removal Services](https://ccfix.com.au/how-to-fix-keyboard-issue-in-laptop/)
+- [Laptop Keyboard Repair](https://ccfix.com.au/how-to-fix-keyboard-issue-in-laptop/)
 
 Don't let a broken computer disrupt your day. Trust CCFix for all your computer repair needs in Merrylands and surrounding areas!
 
