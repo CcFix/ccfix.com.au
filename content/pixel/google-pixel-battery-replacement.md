@@ -1,6 +1,7 @@
 ---
 title: "Google Pixel Battery Replacement: Comprehensive Guide by CCFix"
 description: "Is your Google Pixel battery not holding a charge? Discover expert battery replacement services at CCFix in Sydney. Get a free quote today!"
+summary: "Google Pixel battery not holding a charge? Discover expert battery replacement services at CCFix in Sydney. Get a free quote today!"
 url: google-pixel-battery-replacement
 sidebar: true
 include_footer: true

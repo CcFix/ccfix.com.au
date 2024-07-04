@@ -1,6 +1,7 @@
 ---
 title: "How Much to Repair Google Pixel Screen: Comprehensive Guide by CCFix"
 description: "Wondering about the cost to repair your Google Pixel screen? Discover professional repair services at CCFix in Sydney. Get a free quote today!"
+summary: "Wondering about the cost to repair your Google Pixel screen? Discover professional repair services at CCFix in Sydney. Get a free quote today!"
 url: pixel-screen-replacement
 sidebar: true
 include_footer: true

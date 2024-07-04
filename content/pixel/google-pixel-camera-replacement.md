@@ -1,6 +1,7 @@
 ---
 title: "Fix Your Google Pixel Camera Issues in Sydney: Comprehensive Guide by CCFix"
 description: "Having trouble with your Google Pixel camera? Discover professional repair solutions at CCFix in Sydney. Get a free quote today!"
+summary: "Having trouble with your Google Pixel camera? Discover professional repair solutions at CCFix in Sydney. Get a free quote today!"
 url: google-pixel-camera-repair
 sidebar: true
 include_footer: true

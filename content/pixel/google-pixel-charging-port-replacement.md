@@ -1,6 +1,7 @@
 ---
 title: "Why is Google Pixel Not Charging: Comprehensive Guide by CCFix"
 description: "Struggling with charging issues on your Google Pixel? Discover expert repair solutions at CCFix in Sydney. Get a free quote today!"
+summary: "Struggling with charging issues on your Google Pixel? Discover expert repair solutions at CCFix in Sydney. Get a free quote today!"
 url: google-pixel-charging-port-repair
 sidebar: true
 include_footer: true

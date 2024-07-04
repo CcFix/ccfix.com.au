@@ -1,6 +1,7 @@
 ---
 title: "Expert Google Pixel Back Glass Replacement in Sydney: Comprehensive Guide by CCFix"
 description: "Is your Google Pixel back glass cracked? Discover professional back glass replacement services at CCFix in Sydney. Get a free quote today!"
+summary: "Google Pixel back glass cracked? Discover professional back glass replacement services at CCFix in Sydney. Get a free quote today!"
 url: google-pixel-back-glass-repair-replacement
 sidebar: true
 include_footer: true

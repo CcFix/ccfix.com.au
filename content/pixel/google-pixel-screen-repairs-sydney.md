@@ -1,6 +1,7 @@
 ---
 title: "Google Pixel Screen Repairs in Sydney: Expert Services by CCFix"
 description: "Looking for Google Pixel screen repairs in Sydney? Discover our expert services at CCFix. We offer fast and reliable screen replacements for all Pixel models. Visit us today or get a free quote online!"
+summary: "Looking for Google Pixel screen repairs in Sydney? Discover expert services at CCFix for fast and reliable screen replacements for all Pixel models. Visit us today or get a free quote online!"
 url: google-pixel-screen-repairs-sydney
 sidebar: true
 include_footer: true

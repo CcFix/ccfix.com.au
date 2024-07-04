@@ -1,6 +1,7 @@
 ---
 title: "Mobile Phone Screen Repairs in Sydney: Expert Services by CCFix"
 description: "Need mobile phone screen repairs in Sydney? Discover our expert services at CCFix. We offer fast and reliable screen replacements for all major brands. Visit us today or get a free quote online!"
+summary: "Need mobile phone screen repairs in Sydney? Explore expert services at CCFix for fast and reliable screen replacements for all major brands. Visit us today or get a free quote online!"
 url: mobile-phone-screen-repairs
 sidebar: true
 include_footer: true
