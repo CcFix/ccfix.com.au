@@ -7,3 +7,5 @@ github.com/jgthms/bulma v0.0.0-20240611141536-45d70e7e65fd h1:KGAZNjMNjAIBEpmmzS
 github.com/jgthms/bulma v0.0.0-20240611141536-45d70e7e65fd/go.mod h1:89FLBKXYFKfOKAoDeUT26V0pHGwzr205cMXAEqtAVOI=
 github.com/jgthms/bulma v0.0.0-20240627032144-bbd8d21bf2ad h1:2KpEFz6ESs7FTRJL3xa6STncU5FbsgGDu398KqdEeP0=
 github.com/jgthms/bulma v0.0.0-20240627032144-bbd8d21bf2ad/go.mod h1:89FLBKXYFKfOKAoDeUT26V0pHGwzr205cMXAEqtAVOI=
+github.com/jgthms/bulma v0.0.0-20240701143750-fc7db1b2044a h1:KXoV/FYw36PKZ2arCs/azC40FFWbGD+jWh7nPTYpfb4=
+github.com/jgthms/bulma v0.0.0-20240701143750-fc7db1b2044a/go.mod h1:89FLBKXYFKfOKAoDeUT26V0pHGwzr205cMXAEqtAVOI=
