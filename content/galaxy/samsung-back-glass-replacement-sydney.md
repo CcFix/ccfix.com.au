@@ -1,6 +1,7 @@
 ---
 title: "Samsung Galaxy Back Glass Replacement: Expert Solutions by CCFix"
 description: "Is your Samsung Galaxy back glass cracked or shattered? Learn about professional back glass replacement services at CCFix in Sydney. Get a free quote today!"
+summary: "Is your Samsung Galaxy back glass cracked or shattered? CCFix in Sydney offers professional back glass replacement services. Contact us for a free quote today!"
 url: samsung-galaxy-back-glass-replacement
 sidebar: true
 include_footer: true

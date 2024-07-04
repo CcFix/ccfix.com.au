@@ -1,6 +1,7 @@
 ---
 title: "Samsung Galaxy Camera Repair: Precision Service by CCFix"
 description: "Professional Samsung Galaxy camera repair services in Sydney. Quick, reliable, and backed by a warranty. Contact CCFix for a free quote today!"
+summary: "Quick and reliable Samsung Galaxy camera repair in Sydney. Professional services backed by a warranty. Contact CCFix for a free quote today!"
 url: samsung-galaxy-camera-repairs
 sidebar: true
 include_footer: true

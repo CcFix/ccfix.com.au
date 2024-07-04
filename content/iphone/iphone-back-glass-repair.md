@@ -1,6 +1,7 @@
 ---
 title: "iPhone Back Glass Repair: Trusted Solutions by CCFix"
 description: "Expert iPhone back glass repair services at CCFix in Sydney. Learn about our process, costs, and how to prevent future damage. Get a free quote today!"
+summary: "Expert iPhone back glass repair services at CCFix in Sydney. Discover our process, costs, and tips to prevent future damage. Get a free quote today!"
 url: iphone-back-glass-repair
 sidebar: true
 include_footer: true

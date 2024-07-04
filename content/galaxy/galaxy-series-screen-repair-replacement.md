@@ -1,6 +1,7 @@
 ---
 title: "Samsung Galaxy Screen Replacement: Expert Solutions by CCFix"
 description: "Professional Samsung Galaxy screen replacement services in Sydney. Fast, reliable, and backed by a comprehensive warranty. Contact CCFix for a free quote today!"
+summary: "Get your Samsung Galaxy screen professionally replaced in Sydney with CCFix. Fast, reliable service with a comprehensive warranty. Contact us for a free quote today!"
 url: samsung-galaxy-screen-replacement
 sidebar: true
 include_footer: true

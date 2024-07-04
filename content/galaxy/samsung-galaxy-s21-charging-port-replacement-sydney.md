@@ -1,6 +1,7 @@
 ---
 title: "Samsung Galaxy S21 Charging Port Replacement in Sydney: A Comprehensive Guide by CCFix"
 description: "Wondering about Samsung Galaxy S21 charging port replacement? Follow our detailed guide to understand the process, costs, and options available. Visit CCFix in Sydney for professional assistance or get a free quote online!"
+summary: "Learn about Samsung Galaxy S21 charging port replacement with our detailed guide. Understand the process, costs, and options. Visit CCFix in Sydney for expert assistance or get a free quote online!"
 url: samsung-galaxy-s21-charging-port-replacement-sydney
 sidebar: true
 include_footer: true

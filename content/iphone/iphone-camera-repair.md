@@ -1,6 +1,7 @@
 ---
 title: "iPhone Camera Issues: Expert Solutions by CCFix"
 description: "Facing issues with your iPhone camera? Learn about common problems, DIY fixes, and professional repair services offered by CCFix in Sydney. Get a free quote today!"
+summary: "Having iPhone camera issues? Discover common problems, DIY fixes, and professional repair services at CCFix in Sydney. Get a free quote today!"
 url: iphone-back-front-camera-repair
 sidebar: true
 include_footer: true

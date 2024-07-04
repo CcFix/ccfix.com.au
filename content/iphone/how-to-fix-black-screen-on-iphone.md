@@ -1,6 +1,7 @@
 ---
 title: "How to Fix Black Screen on iPhone: A Comprehensive Guide by CCFix"
 description: "Is your iPhone stuck on a black screen? Follow our expert guide to diagnose and fix common black screen issues. Visit CCFix in Sydney for professional assistance or get a free quote online!"
+summary: "Is your iPhone stuck on a black screen? Follow our expert guide to diagnose and fix it. Visit CCFix in Sydney for professional help or get a free quote online!"
 url: how-to-fix-black-screen-on-iphone
 sidebar: true
 include_footer: true

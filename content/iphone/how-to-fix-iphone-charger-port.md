@@ -1,6 +1,7 @@
 ---
 title: "How to Fix an iPhone Charger Port: A Comprehensive Guide by CCFix"
 description: "Is your iPhone charger port not working? Follow our expert guide to diagnose and fix common charger port issues. Visit CCFix in Sydney for professional assistance or get a free quote online!"
+summary: "Is your iPhone charger port not working? Follow our expert guide to diagnose and fix common issues. Visit CCFix in Sydney for professional help or get a free quote online!"
 url: how-to-fix-iphone-charger-port
 sidebar: true
 include_footer: true

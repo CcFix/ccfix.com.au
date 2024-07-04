@@ -1,6 +1,7 @@
 ---
 title: "iPhone Screen Replacement Sydney: Trusted Service by CCFix"
 description: "Is your iPhone screen cracked or unresponsive? Learn about reliable screen replacement services at CCFix in Sydney. Get a free quote today!"
+summary: "iPhone screen cracked or unresponsive? Discover reliable screen replacement services at CCFix in Sydney. Get a free quote today!"
 url: iphone-screen-replacement-sydney
 sidebar: true
 include_footer: true

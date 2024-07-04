@@ -1,6 +1,7 @@
 ---
 title: "iPhone Charging Port Repair: Comprehensive Service by CCFix"
 description: "Struggling with your iPhone not charging? Learn about common issues, professional repair solutions, and preventive tips from CCFix in Sydney. Get a free quote today!"
+summary: "iPhone not charging? Discover common issues, professional repair solutions, and preventive tips from CCFix in Sydney. Get a free quote today!"
 url: iphone-charging-port-repair
 sidebar: true
 include_footer: true

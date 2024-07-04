@@ -1,6 +1,7 @@
 ---
 title: "Samsung Galaxy Battery Replacement: Expert Service by CCFix"
 description: "Expert Samsung Galaxy battery replacement services in Sydney. Fast, reliable, and backed by a comprehensive warranty. Contact CCFix for a free quote today!"
+summary: "Professional Samsung Galaxy battery replacement in Sydney. Fast and reliable service with a comprehensive warranty. Contact CCFix for a free quote today!"
 url: samsung-galaxy-battery-replacement
 sidebar: true
 include_footer: true

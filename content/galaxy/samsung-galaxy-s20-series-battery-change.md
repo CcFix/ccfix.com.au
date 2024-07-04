@@ -1,6 +1,7 @@
 ---
 title: "Samsung Galaxy S20 Series Battery Change (S20, S20 Plus, S20 Ultra, S20 FE) by CCFix"
 description: "Learn how to change the battery of your Samsung Galaxy S20 series devices with expert tips from CCFix in Sydney. Get insights on battery replacement costs, DIY steps, and professional services for S20, S20+, S20 Ultra, and S20 FE."
+summary: "Discover expert tips for changing the battery of your Samsung Galaxy S20 series. Get insights on costs, DIY steps, and professional services from CCFix in Sydney."
 url: samsung-galaxy-s20-series-battery-change
 summary: Galaxy S20 Battery Replacement
 sidebar: true
