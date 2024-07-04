@@ -7,7 +7,7 @@ sidebar: true
 include_footer: true
 sidebarlogo: CCFix(1)
 taxonomies:
-  category: mobile-repair
+  category: iphone
   tag: iPhone battery replacement, battery repair, iPhone repair Merrylands
 ---
 ![CCFix iPhone Battery Repair](/images/CCFix-iphone-battery-repair.webp?height=20 "Get your iPhone battery repaired at CCFix in Merrylands. High-quality service at affordable prices.")
