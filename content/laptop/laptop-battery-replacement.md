@@ -50,7 +50,7 @@ For more details, visit our website or drop by our Sydney location.
 
 For more information on our other services, check out these articles:
 
-- [Laptop Screen Replacement](https://ccfix.com.au/laptop-screen/)
+- [Laptop Screen Replacement](https://ccfix.com.au/laptop-screen-broken/)
 - [Laptop Charging Port Repair](https://ccfix.com.au/laptop-startup-issue/)
 
 Don't let a failing battery disrupt your day. Trust CCFix for all your laptop repair needs in Sydney and surrounding areas!
