@@ -51,7 +51,7 @@ For more details, visit our website or drop by our Sydney location.
 
 For more information on our other services, check out these articles:
 
-- [Samsung Phone Screen Repair](https://ccfix.com.au/samsung-phone-screen-repair/)
+- [Samsung Phone Screen Repair](https://ccfix.com.au/samsung-galaxy-camera-repairs)
 - [Samsung Camera Port Repair](https://ccfix.com.au/samsung-galaxy-screen-replacement)
 
 Don't let a failing battery disrupt your day. Trust CCFix for all your Samsung phone repair needs in Sydney and surrounding areas!
