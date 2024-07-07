@@ -1,6 +1,7 @@
 ---
 title: "How Much Does a Laptop Screen Repair Cost? A Comprehensive Guide by CCFix"
 description: "Wondering about the cost of repairing your laptop screen? Follow our detailed guide to understand the factors affecting the repair cost. Visit CCFix in Sydney for professional assistance or get a free quote online!"
+summary: "Curious about laptop screen repair costs? Follow our detailed guide to understand the factors affecting the price. Visit CCFix in Sydney for professional assistance or get a free quote online!"
 url: how-much-does-laptop-screen-repair-cost
 sidebar: true
 include_footer: true

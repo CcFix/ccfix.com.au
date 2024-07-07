@@ -1,6 +1,7 @@
 ---
 title: "Troubleshooting Laptop Startup Issues: A Comprehensive Guide by CCFix"
 description: "Is your laptop struggling to start up? Follow our expert guide to diagnose and fix common startup issues. Visit CCFix in Sydney for professional assistance or get a free quote online!"
+summary: "Is your laptop struggling to start up? Follow our expert guide to diagnose and fix common startup issues. Visit CCFix in Sydney for professional help or get a free quote online!"
 url: laptop-startup-issue
 sidebar: true
 include_footer: true

@@ -1,6 +1,7 @@
 ---
 title: "Laptop Screen Broken: Comprehensive Repair Solutions by CCFix"
 description: "Detailed guide on how to handle a broken laptop screen including DIY tips and professional repair services offered by CCFix in Sydney. Get a free quote today!"
+summary: "Handle a broken laptop screen with our detailed guide, including DIY tips and professional repair services from CCFix in Sydney. Get a free quote today!"
 url: broken-laptop-screen
 sidebar: true
 include_footer: true

@@ -1,6 +1,7 @@
 ---
 title: "How to Repair a Laptop Battery Not Charging: A Comprehensive Guide by CCFix"
 description: "Is your laptop battery not charging? Follow our expert guide to diagnose and fix common charging issues. Visit CCFix in Sydney for professional assistance or get a free quote online!"
+summary: "Is your laptop battery not charging? Follow our expert guide to diagnose and fix common issues. Visit CCFix in Sydney for professional help or get a free quote online!"
 url: how-to-repair-laptop-battery-not-charging
 sidebar: true
 include_footer: true

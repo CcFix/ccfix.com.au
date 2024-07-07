@@ -1,6 +1,7 @@
 ---
 title: "How Much to Repair an HP Laptop Screen? A Comprehensive Guide by CCFix"
 description: "Wondering about the cost to repair your HP laptop screen? Follow our detailed guide to understand the repair process and costs involved. Visit CCFix in Sydney for professional assistance or get a free quote online!"
+summary: "Wondering about the cost to repair your HP laptop screen? Follow our guide to understand the repair process and costs involved. Visit CCFix in Sydney for professional assistance or get a free quote online!"
 url: how-much-to-repair-hp-laptop-screen
 sidebar: true
 include_footer: true

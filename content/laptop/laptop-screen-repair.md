@@ -1,6 +1,7 @@
 ---
 title: "Laptop Screen Repair: A Comprehensive Guide by CCFix"
 description: "Is your laptop screen damaged? Follow our detailed guide to understand the repair process and costs. Visit CCFix in Sydney for professional assistance or get a free quote online!"
+summary: "Is your laptop screen damaged? Follow our guide to understand the repair process and costs. Visit CCFix in Sydney for professional help or get a free quote online!"
 url: laptop-screen-repair
 sidebar: true
 include_footer: true

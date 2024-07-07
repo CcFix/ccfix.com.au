@@ -1,6 +1,7 @@
 ---
 title: "How Much Does MacBook Screen Repair Cost in Sydney? Comprehensive Guide by CCFix"
 description: "Wondering how much MacBook screen repair costs in Sydney? Explore our detailed guide to understand the costs, factors affecting prices, and why CCFix offers the best services in Sydney. Get a free quote online today!"
+summary: "How much does MacBook screen repair cost in Sydney? Explore our guide to understand the costs, factors affecting prices, and why CCFix offers the best services. Get a free quote online today!"
 url: how-much-macbook-screen-repair-cost
 sidebar: true
 include_footer: true

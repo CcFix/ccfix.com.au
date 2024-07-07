@@ -1,6 +1,7 @@
 ---
 title: "How Much to Replace a Laptop Screen in Sydney? Comprehensive Guide by CCFix"
 description: "Wondering how much it costs to replace a laptop screen in Sydney? Explore our detailed guide to understand the costs, factors affecting prices, and why CCFix offers the best services in Sydney. Get a free quote online today!"
+summary: "How much does it cost to replace a laptop screen in Sydney? Explore our guide to understand costs, factors affecting prices, and why CCFix offers the best services. Get a free quote online today!"
 url: how-much-to-replace-laptop-screen
 sidebar: true
 include_footer: true

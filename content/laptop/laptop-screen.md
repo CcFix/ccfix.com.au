@@ -1,6 +1,7 @@
 ---
 title: "Laptop Screen Broken: A Comprehensive Guide by CCFix"
 description: "Wondering about laptop screen repair? Follow our detailed guide to understand the process, costs, and options available. Visit CCFix in Sydney for professional assistance or get a free quote online!"
+summary: "Wondering about laptop screen repair? Follow our guide to understand the process, costs, and options. Visit CCFix in Sydney for professional help or get a free quote online!"
 url: laptop-screen-broken
 sidebar: true
 include_footer: true

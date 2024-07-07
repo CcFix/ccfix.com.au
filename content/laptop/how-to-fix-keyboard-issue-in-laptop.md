@@ -1,6 +1,7 @@
 ---
 title: "How to Fix a Keyboard Issue in Your Laptop"
 description: "Experiencing problems with your laptop keyboard? Follow our comprehensive guide to diagnose and fix common keyboard issues. Get professional help in Sydney from CCFix!"
+summary: "Having problems with your laptop keyboard? Follow our guide to diagnose and fix common issues. Get professional help in Sydney from CCFix!"
 url: how-to-fix-keyboard-issue-in-laptop
 sidebar: true
 include_footer: true

@@ -1,6 +1,7 @@
 ---
 title: "Notebook Screen Repair Cost: A Comprehensive Guide by CCFix"
 description: "Curious about the cost to repair your notebook screen? Follow our detailed guide to understand the repair process, costs, and options available. Visit CCFix in Sydney for professional assistance or get a free quote online!"
+summary: "Curious about the cost to repair your notebook screen? Follow our guide to understand the repair process, costs, and options. Visit CCFix in Sydney for professional help or get a free quote online!"
 url: notebook-screen-repair-cost
 sidebar: true
 include_footer: true

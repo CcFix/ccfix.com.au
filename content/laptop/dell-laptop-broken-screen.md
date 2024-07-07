@@ -1,6 +1,7 @@
 ---
 title: "Dell Laptop Broken Screen: Repair and Replacement Guide by CCFix"
 description: "Discover how to repair or replace a broken Dell laptop screen with professional services from CCFix in Sydney. Get expert tips, cost estimates, and free quotes for your Dell laptop screen repair needs."
+summary: "Need to repair or replace your broken Dell laptop screen? Trust CCFix in Sydney for professional services. Get expert tips, cost estimates, and a free quote today!"
 url: dell-laptop-broken-screen
 sidebar: true
 include_footer: true

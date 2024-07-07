@@ -1,6 +1,7 @@
 ---
 title: "Average Laptop Screen Repair Cost in Sydney: Comprehensive Guide by CCFix"
 description: "Curious about the average laptop screen repair cost in Sydney? Explore our detailed guide to understand the costs, factors affecting prices, and why CCFix offers the best services in Sydney. Get a free quote online today!"
+summary: "Curious about the average laptop screen repair cost in Sydney? Explore our detailed guide to understand costs, factors affecting prices, and why CCFix offers the best services in Sydney. Get a free quote online today!" 
 url: average-laptop-screen-repair-cost
 sidebar: true
 include_footer: true

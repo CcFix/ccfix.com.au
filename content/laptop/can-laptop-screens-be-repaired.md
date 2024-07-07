@@ -1,6 +1,7 @@
 ---
 title: "Can Laptop Screens Be Repaired? A Comprehensive Guide by CCFix"
 description: "Wondering if your laptop screen can be repaired? Follow our detailed guide to understand the repair process, costs, and options available. Visit CCFix in Sydney for professional assistance or get a free quote online!"
+summary: "Need your laptop screen repaired? Discover our detailed guide on the repair process, costs, and options available. Trust CCFix in Sydney for professional, reliable service. Visit us or get a free quote online today!"
 url: can-laptop-screens-be-repaired
 sidebar: true
 include_footer: true

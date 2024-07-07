@@ -1,6 +1,7 @@
 ---
 title: "How Much to Replace a Laptop Screen? A Comprehensive Guide by CCFix"
 description: "Learn about the various costs involved in repairing or replacing a laptop screen. Discover why CCFix in Sydney is your best option for professional and affordable laptop screen repair services."
+summary: "Learn about the costs of repairing or replacing a laptop screen. Discover why CCFix in Sydney is your best choice for professional and affordable repair services."
 url: laptop-screen-repair-cost
 sidebar: true
 include_footer: true

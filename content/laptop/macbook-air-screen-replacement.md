@@ -1,6 +1,7 @@
 ---
 title: "MacBook Air Screen Replacement: A Complete Guide by CCFix"
 description: "Discover the detailed process and costs associated with MacBook Air screen replacement. Learn why CCFix in Sydney is the best choice for professional and reliable screen repair services."
+summary: "Discover the process and costs of MacBook Air screen replacement. Learn why CCFix in Sydney is the best choice for professional and reliable screen repair services."
 url: macbook-air-screen-replacement
 sidebar: true
 include_footer: true

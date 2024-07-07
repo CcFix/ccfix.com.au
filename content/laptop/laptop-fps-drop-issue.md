@@ -1,6 +1,7 @@
 ---
 title: "Laptop FPS Drop Issue: Comprehensive Guide by CCFix"
 description: "Struggling with FPS drops on your laptop? Discover the common causes and solutions with CCFix in Sydney. Get a free quote today!"
+summary: "Struggling with FPS drops on your laptop? Discover common causes and solutions with CCFix in Sydney. Get a free quote today!"
 url: laptop-fps-drop-issue
 sidebar: true
 include_footer: true

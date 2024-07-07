@@ -1,6 +1,7 @@
 ---
 title: "Resolving Laptop WiFi Issues: A Detailed Guide by CCFix"
 description: "Experiencing WiFi connectivity problems on your laptop? Follow our comprehensive guide to diagnose and fix common WiFi issues. Visit CCFix in Sydney for expert assistance or get a free quote online!"
+summary: "Experiencing WiFi connectivity problems on your laptop? Follow our guide to diagnose and fix common WiFi issues. Visit CCFix in Sydney for expert help or get a free quote online!"
 url: resolving-laptop-wifi-issues
 sidebar: true
 include_footer: true

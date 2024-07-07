@@ -1,6 +1,7 @@
 ---
 title: "How to Repair a Laptop Battery: A Comprehensive Guide by CCFix"
 description: "Is your laptop battery not holding a charge? Follow our expert guide to diagnose and fix common laptop battery issues. Visit CCFix in Sydney for professional assistance or get a free quote online!"
+summary: "Is your laptop battery not holding a charge? Follow our expert guide to diagnose and fix common battery issues. Visit CCFix in Sydney for professional help or get a free quote online!"
 url: how-to-repair-laptop-battery
 sidebar: true
 include_footer: true

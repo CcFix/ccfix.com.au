@@ -1,6 +1,7 @@
 ---
 title: "Laptop Screen Replacement Australia: A Comprehensive Guide by CCFix"
 description: "Need to replace your laptop screen in Australia? Follow our detailed guide to understand the process and costs involved. Visit CCFix in Sydney for professional assistance or get a free quote online!"
+summary: "Need to replace your laptop screen in Australia? Follow our guide to understand the process and costs. Visit CCFix in Sydney for professional help or get a free quote online!"
 url: laptop-screen-replacement-australia
 sidebar: true
 include_footer: true
