@@ -66,7 +66,7 @@ For more information on our other services, check out these articles:
 
 [Computer Repairs Merrylands](https://ccfix.com.au/computer-repairs-merrylands)
 
-[iPhone Reapirs in Merrylands](https://ccfix.com.au/iphone-battery-repair/)
+[iPhone Repairs in Merrylands](https://ccfix.com.au/iphone-battery-repair/)
 
 Don't let a broken bezel disrupt your laptop's functionality. Trust CCFix for all your laptop repair needs in Sydney!
 ## [Request a Free Quote](https://form.jotform.com/241402975332857)
