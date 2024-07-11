@@ -2,7 +2,7 @@
 title: "Resolve Your Samsung Galaxy Charging Port Issues in Sydney: Expert Solutions by CCFix"
 description: "Struggling with charging issues? CCFix offers professional Samsung Galaxy charging port repair services in Sydney. Contact us for a free quote today!"
 summary: "Struggling with charging issues on your Samsung Galaxy? CCFix in Sydney offers expert charging port repair services. Get back to full power—contact us for a free quote today!"
-url: samsung-galaxy-charging-port-repair/
+url: samsung-galaxy-charging-port-repair
 sidebar: true
 include_footer: true
 sidebarlogo: CCFix(1)
