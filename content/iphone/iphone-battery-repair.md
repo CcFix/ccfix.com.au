@@ -66,17 +66,21 @@ Finally, we hand your iPhone back to you, fully repaired and ready to use. We al
 [Request a Free Quote](https://form.jotform.com/241402975332857)
 ## Service Areas
 
-### Merrylands
-Residents of Merrylands can easily access our services. We offer quick and reliable iPhone battery replacements.
+## CCFix proudly serves various areas in Sydney, including:
 
-### Parramatta
-If you're in Parramatta, CCFix is just a short drive away. Visit us for professional and affordable iPhone repairs.
-
-### Guildford
-For those in the Guildford, our central location makes it convenient to drop off your iPhone for a battery replacement.
-
-### Surrounding Areas
-We also serve other surrounding areas, ensuring everyone in Sydney can benefit from our top-quality services.
+**-** Merrylands
+**-** Parramatta
+**-** Guildford
+**-** Harris Park
+**-** Silverwater
+**-** Fairfield
+**-** Westmead
+**-** Granville
+**-** Greystanes
+**-** Clyde
+**-** Northmead
+**-** Smithfield
+**-** Lidcombe
 
 ## Contact Us
 
