@@ -47,39 +47,34 @@ Issues with charging, such as slow charging or the device not charging at all, a
 ### Unexpected Shutdowns
 If your iPhone shuts down unexpectedly even when the battery is charged, this is a clear sign that you need a new battery.[Request a Free Quote](https://form.jotform.com/241402975332857)
 
-## The Repair Process at CCFix
-
-### Initial Consultation
-Bring your iPhone to CCFix for an initial consultation. Our technicians will assess the battery’s health and provide you with a detailed quote.
-
-### Diagnostic Check
-Before proceeding with the repair, we perform a thorough diagnostic check to ensure there are no underlying issues that could affect your iPhone's performance.
-
-### Battery Replacement
-Once you approve the quote, we proceed with the battery replacement. Our technicians work with precision to ensure your iPhone is as good as new.
-
-### Quality Check
-After the repair, we perform a final quality check to ensure everything is working perfectly. We test the battery, charging capabilities, and other functionalities.
-
-### Customer Handover
-Finally, we hand your iPhone back to you, fully repaired and ready to use. We also provide you with tips on how to take care of your new battery.
 [Request a Free Quote](https://form.jotform.com/241402975332857)
+
 ## Service Areas
 
-## CCFix proudly serves various areas in Sydney, including:
-
 **-** Merrylands
+
 **-** Parramatta
+
 **-** Guildford
+
 **-** Harris Park
+
 **-** Silverwater
+
 **-** Fairfield
+
 **-** Westmead
+
 **-** Granville
+
 **-** Greystanes
+
 **-** Clyde
+
 **-** Northmead
+
 **-** Smithfield
+
 **-** Lidcombe
 
 ## Contact Us
