@@ -27,10 +27,10 @@ We use only high-quality, genuine batteries for all our repairs. This ensures th
 ### Fast Service
 We understand how essential your iPhone is to your daily life. That’s why we offer fast turnaround times, with most battery replacements completed within the same day.
 
-### Affordable Prices
+### How Much Does It Cost to Replace an iPhone Battery?
 Our services are competitively priced, ensuring you get the best value for your money. We provide transparent pricing with no hidden costs, so you know exactly what you’re paying for.[Request a Free Quote](https://form.jotform.com/241402975332857)
 
-### Convenient Location
+### Convenient Location - iPhone Battery Repair Near Me?
 Located in the heart of Sydney, CCFix is easily accessible from all parts of the city. Whether you're in Merrylands, Parramatta, or the CBD, getting to us is hassle-free.
 
 ### Exceptional Customer Service
@@ -38,7 +38,7 @@ From the moment you walk in, our friendly staff are here to assist you. We keep 
 
 ## Common iPhone Battery Issues
 
-### Rapid Battery Drain
+### Rapid Battery Drain - Why is my iphone battery draining?
 If your iPhone battery drains quickly, it might be time for a replacement. A new battery can significantly improve your device’s battery life.
 
 ### Charging Problems
@@ -110,6 +110,21 @@ To extend your new battery's life, avoid extreme temperatures, use official char
 ### How do I know if my iPhone battery needs replacement?
 Common signs include rapid battery drain, unexpected shutdowns, and the battery not holding a charge. If you experience any of these issues, it’s time to get your battery checked.
 
+### What does it mean if my battery health is below 80%? 
+A battery health below 80% indicates that your battery’s capacity has significantly degraded, and you should consider a replacement.
+
+### How to Check iPhone Battery Health?
+ - Open the Settings App
+
+ - Tap the Settings icon on your iPhone’s home screen.
+  - Navigate to Battery
+
+ - Scroll down and tap on Battery.
+  - Check Battery Health
+
+- In the Battery settings, tap on Battery Health.
+
+Here, you will see information about your battery's Maximum Capacity and Peak Performance Capability.
 
 ## Conclusion
 
