@@ -2,7 +2,7 @@
 title: "iPhone Battery Repair in Sydney"
 description: "Get your iPhone battery repaired or replaced in Sydney with CCFix. Our expert technicians provide fast, reliable, and affordable battery services. Contact us for a free quote today!"
 summary: "Need an iPhone battery repair in Sydney? CCFix offers expert, affordable, and fast battery replacement services. Get your free quote now!"
-url: iphone-battery-repair-sydney
+url: iphone-battery-repair
 sidebar: true
 include_footer: true
 sidebarlogo: CCFix(1)
@@ -19,22 +19,22 @@ When your iPhone battery starts to fail, it can disrupt your daily life. For res
 ## Why Choose CCFix for iPhone Battery Repair?
 
 ### Expert Technicians
-Our team of technicians is highly skilled and experienced in handling all iPhone models. Whether you have an iPhone 11, iPhone XR, or any other model, we ensure your battery replacement is done with precision and care.
+Our team of technicians is highly skilled and experienced in handling all iPhone models. Whether you have an iPhone 11, iPhone XR, or any other model, we ensure your battery replacement is done with precision and care.[Request a Free Quote](https://form.jotform.com/241402975332857)
 
 ### Quality Parts
-We use only high-quality, genuine batteries for all our repairs. This ensures the longevity and performance of your iPhone battery, keeping your device running smoothly for longer.
+We use only high-quality, genuine batteries for all our repairs. This ensures the longevity and performance of your iPhone battery, keeping your device running smoothly for longer.[Request a Free Quote](https://form.jotform.com/241402975332857)
 
 ### Fast Service
 We understand how essential your iPhone is to your daily life. That’s why we offer fast turnaround times, with most battery replacements completed within the same day.
 
 ### Affordable Prices
-Our services are competitively priced, ensuring you get the best value for your money. We provide transparent pricing with no hidden costs, so you know exactly what you’re paying for.
+Our services are competitively priced, ensuring you get the best value for your money. We provide transparent pricing with no hidden costs, so you know exactly what you’re paying for.[Request a Free Quote](https://form.jotform.com/241402975332857)
 
 ### Convenient Location
 Located in the heart of Sydney, CCFix is easily accessible from all parts of the city. Whether you're in Merrylands, Parramatta, or the CBD, getting to us is hassle-free.
 
 ### Exceptional Customer Service
-From the moment you walk in, our friendly staff are here to assist you. We keep you informed throughout the repair process and ensure all your questions are answered.
+From the moment you walk in, our friendly staff are here to assist you. We keep you informed throughout the repair process and ensure all your questions are answered.[Request a Free Quote](https://form.jotform.com/241402975332857)
 
 ## Common iPhone Battery Issues
 
@@ -47,7 +47,6 @@ Issues with charging, such as slow charging or the device not charging at all, a
 ### Unexpected Shutdowns
 If your iPhone shuts down unexpectedly even when the battery is charged, this is a clear sign that you need a new battery.[Request a Free Quote](https://form.jotform.com/241402975332857)
 
-[Request a Free Quote](https://form.jotform.com/241402975332857)
 
 ## Service Areas
 
