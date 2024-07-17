@@ -121,3 +121,6 @@ For the best Samsung screen repair service in Sydney, contact CCFix today. We of
 
 ## [Request a Free Quote](https://form.jotform.com/241402975332857)
 ## [Where are we? - Google Maps](https://maps.app.goo.gl/AbisHTXzq2XqgA8c7)
+
+
+Yes, we can fix your Pixel; [Pixel Screen Repairs](https://ccfix.com.au/pixel-screen-replacement)
