@@ -3,6 +3,9 @@ title: "iPhone X Screen Replacement Near Me: The Best Service in Sydney"
 description: "Looking for iPhone X screen replacement near you? Discover why CCFix Sydney is the top choice for professional and quick iPhone repairs. Get a free quote today!"
 url: iphone-x-screen-replacement-near-me
 summary: "Need an iPhone X screen replacement near you in Sydney? Choose CCFix for expert repairs, quality parts, and excellent customer service. Get a free quote today!"
+sidebar: true
+include_footer: true
+sidebarlogo: CCFix(1)
 taxonomies:
   category: phone-repair
   tag: iPhone X screen replacement, iPhone repair Sydney, screen repair, CCFix
