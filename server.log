@@ -1,0 +1,26 @@
+::1 - - [07/Jun/2026 11:57:39] "GET / HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 11:57:40] "GET /iphone-battery-repair/ HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 11:57:40] "GET /laptop/ HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 11:57:40] "GET /assets/css/style.css HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 11:57:40] "GET /assets/js/site.js HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 11:57:40] "GET /sitemap.xml HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 11:57:40] code 404, message File not found
+::1 - - [07/Jun/2026 11:57:40] "GET /nonexistent-page/ HTTP/1.1" 404 -
+::1 - - [07/Jun/2026 12:06:07] "GET / HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 12:06:07] "GET /assets/css/style.css HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 12:06:07] "GET /assets/js/site.js HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 12:06:07] "GET /favicon.svg HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 12:06:36] "GET /who-we-are/ HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 12:06:41] "GET /galaxy/ HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 12:06:45] "GET /laptop/ HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 12:06:48] "GET /mobile-phone/ HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 12:07:33] "GET / HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 12:07:33] "GET /who-we-are/ HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 12:07:33] "GET /iphone/ HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 12:07:33] "GET /iphone-battery-repair/ HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 12:07:33] "GET /laptop-screen-repair/ HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 12:07:44] "GET /iphone-battery-repair/ HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 12:07:56] "GET /laptop-startup-issue/ HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 12:08:10] "GET /laptop-fps-drop-issue/ HTTP/1.1" 200 -
+::1 - - [07/Jun/2026 12:09:10] "GET / HTTP/1.1" 304 -
+::1 - - [07/Jun/2026 12:10:52] "GET / HTTP/1.1" 200 -
