@@ -411,15 +411,101 @@ footer.site .legal{ display:flex; justify-content:space-between; gap:20px; flex-
 .card:hover .go{ color:var(--rust); }
 
 .related-strip{ display:flex; flex-wrap:wrap; gap:12px; }
-.related-strip a{
+.related-strip a, .related-strip span{
   font-family:var(--mono); font-size:13px; letter-spacing:.02em; color:var(--ink-soft);
   padding:11px 18px; border:1px solid var(--line); background:var(--paper-3); transition:.2s;
 }
 .related-strip a:hover{ border-color:var(--teal); color:var(--teal); transform:translateY(-1px); }
+.related-strip span.is-here{ color:var(--rust); border-color:var(--rust); }
 
 /* who-we-are / values grid reuse of "promise" pattern is fine via .promise */
 .split{ display:grid; grid-template-columns:1.05fr .95fr; gap:60px; align-items:start; }
 .split .stamp-lg{ width:120px; height:120px; }
+
+/* ---------- product (buy-box style) pages ---------- */
+.product-grid{ display:grid; grid-template-columns:.92fr 1.08fr; gap:60px; align-items:start; }
+
+.product-visual{
+  background:radial-gradient(ellipse 78% 70% at 50% 42%, var(--paper-3), var(--paper-2));
+  border:1px solid var(--line); box-shadow:var(--shadow);
+  padding:40px; min-height:420px; position:relative; overflow:hidden;
+  display:flex; align-items:center; justify-content:center;
+}
+.product-visual svg.device{
+  width:48%; max-width:230px; height:auto; position:relative; z-index:1;
+  filter:drop-shadow(0 22px 26px rgba(37,32,26,.22));
+}
+.float-tag{
+  position:absolute; font-family:var(--mono); font-size:11px; letter-spacing:.03em;
+  background:var(--paper-3); border:1px solid var(--line); box-shadow:var(--shadow);
+  padding:7px 13px; color:var(--ink-soft); z-index:2;
+}
+.float-tag.tl{ top:22px; left:22px; }
+.float-tag.br{ bottom:22px; right:22px; }
+
+.product-badges{ display:flex; flex-wrap:wrap; gap:10px; margin-top:18px; }
+.product-badges span{
+  font-family:var(--mono); font-size:12px; letter-spacing:.02em; color:var(--ink-soft);
+  border:1px solid var(--line); background:var(--paper-3); padding:8px 14px;
+  display:inline-flex; align-items:center; gap:7px;
+}
+.product-badges svg{ width:13px; height:13px; stroke:var(--teal); fill:none; stroke-width:1.8; }
+
+.buybox h1{ font-size:clamp(28px,3.4vw,38px); margin-top:12px; max-width:23ch; }
+.buybox > .lede{ margin-top:14px; color:var(--ink-soft); font-size:16.5px; max-width:50ch; text-wrap:pretty; }
+
+.price-row{ display:flex; align-items:baseline; gap:10px; margin-top:26px; padding-top:22px; border-top:1px solid var(--line); }
+.price-row .amt{ font-family:var(--serif); font-size:44px; font-weight:600; color:var(--ink); }
+.price-row .unit{ font-family:var(--mono); font-size:12.5px; color:var(--ink-faint); letter-spacing:.02em; }
+
+.opt-group{ margin-top:28px; }
+.opt-group .lab{ font-family:var(--mono); font-size:11.5px; letter-spacing:.14em; text-transform:uppercase; color:var(--ink-faint); margin-bottom:12px; }
+
+.model-grid{ display:grid; grid-template-columns:repeat(5,1fr); gap:8px; }
+.model-swatch{
+  font-family:var(--mono); font-size:13px; padding:11px 4px; text-align:center;
+  border:1px solid var(--line); background:var(--paper-3); color:var(--ink-soft);
+  cursor:pointer; transition:.2s;
+}
+.model-swatch:hover{ border-color:var(--teal); color:var(--ink); }
+.model-swatch.is-active{ border-color:var(--rust); background:var(--rust); color:var(--paper-3); }
+
+.tier-grid{ display:grid; grid-template-columns:repeat(auto-fit,minmax(84px,1fr)); gap:8px; }
+
+.type-cards{ display:grid; grid-template-columns:1fr 1fr; gap:14px; }
+.type-card{
+  border:1px solid var(--line); background:var(--paper-3); padding:18px 18px 16px;
+  cursor:pointer; transition:.2s; text-align:left; display:block; width:100%;
+}
+.type-card:hover{ border-color:var(--teal); }
+.type-card.is-active{ border-color:var(--rust); box-shadow:0 0 0 1px var(--rust) inset; }
+.type-card .tag{ font-family:var(--mono); font-size:10.5px; letter-spacing:.1em; text-transform:uppercase; color:var(--rust); }
+.type-card h4{ font-size:16.5px; font-weight:600; margin:8px 0 2px; }
+.type-card .p{ font-family:var(--serif); font-size:22px; font-weight:600; margin:6px 0; }
+.type-card ul{ list-style:none; margin-top:6px; }
+.type-card li{ font-size:13px; color:var(--ink-soft); padding:3px 0; display:flex; gap:7px; }
+.type-card li::before{ content:"—"; color:var(--teal); font-family:var(--mono); flex:none; }
+
+.summary-line{
+  margin-top:22px; font-family:var(--mono); font-size:13px; color:var(--ink-soft);
+  background:var(--paper-2); border:1px dashed var(--line); padding:12px 16px;
+}
+.summary-line b{ color:var(--ink); }
+
+.buybox .cta-row{ margin-top:22px; display:flex; flex-direction:column; gap:10px; align-items:flex-start; }
+.buybox .micro-trust{ font-family:var(--mono); font-size:12px; color:var(--ink-faint); }
+
+/* FAQ accordion */
+.faq{ border-top:1px solid var(--line); }
+.faq details{ border-bottom:1px solid var(--line); padding:18px 0; }
+.faq summary{
+  cursor:pointer; font-weight:600; font-size:17px; list-style:none;
+  display:flex; justify-content:space-between; align-items:center; gap:20px;
+}
+.faq summary::-webkit-details-marker{ display:none; }
+.faq summary::after{ content:"+"; font-family:var(--mono); color:var(--rust); font-size:20px; flex:none; }
+.faq details[open] summary::after{ content:"\2013"; }
+.faq details p{ margin-top:12px; color:var(--ink-soft); font-size:15.5px; line-height:1.65; max-width:70ch; }
 
 /* reveal — visible by default; gentle entrance only when motion is welcome */
 .reveal{ opacity:1; transform:none; }
@@ -442,6 +528,7 @@ footer.site .legal{ display:flex; justify-content:space-between; gap:20px; flex-
   .cards{ grid-template-columns:repeat(2,1fr); }
   .split{ grid-template-columns:1fr; gap:40px; }
   .note-grid{ grid-template-columns:1fr; }
+  .product-grid{ grid-template-columns:1fr; gap:40px; }
 }
 @media (max-width:680px){
   body{ font-size:17px; }
@@ -468,4 +555,7 @@ footer.site .legal{ display:flex; justify-content:space-between; gap:20px; flex-
   .side{ grid-template-columns:1fr; }
   .cards{ grid-template-columns:1fr; }
   .cta-band .row{ flex-direction:column; align-items:flex-start; }
+  .model-grid{ grid-template-columns:repeat(3,1fr); }
+  .type-cards{ grid-template-columns:1fr; }
+  .price-row .amt{ font-size:36px; }
 }
