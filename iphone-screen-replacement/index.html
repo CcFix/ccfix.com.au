@@ -251,6 +251,7 @@
               </ul>
             </button>
           </div>
+          <p class="note muted" id="oledNote" style="display:none">This model shipped with an Incell/LCD screen from the factory — we don't offer a Soft OLED upgrade for it.</p>
         </div>
 
         <p class="summary-line">Your repair: <b class="txt">iPhone 13 &#183; Incell &#183; $149 fitted</b></p>
@@ -392,23 +393,35 @@
   var tierLabels = { standard: 'Standard', mini: 'mini', plus: 'Plus', pro: 'Pro', promax: 'Pro Max', max: 'Max', air: 'Air' };
   var typeLabels = { incell: 'Incell', oled: 'Soft OLED' };
 
-  // Pricing is derived (base price per generation + a size add-on + an OLED premium)
-  // rather than a 70+ row table, so it's easy to retune later.
-  // Prices temporarily zeroed out — to be filled in before this page goes live.
-  var genBaseIncell   = { x: 0, xr: 0, xs: 0, 11: 0, 12: 0, 13: 0, 14: 0, 15: 0, 16: 0, '16e': 0, 17: 0 };
-  var genOledPremium  = { x: 0, xr: 0, xs: 0, 11: 0, 12: 0, 13: 0, 14: 0, 15: 0, 16: 0, '16e': 0, 17: 0 };
-  var tierAddOn       = { standard: 0, mini: 0, max: 0, plus: 0, pro: 0, promax: 0, air: 0 };
+  // Pricing is derived (base price per generation + a Pro/Pro Max add-on per generation + a flat OLED premium).
+  // Source: CCFix Jan/2026 price list (incell/LCD). Pro and Pro Max share the same price, per that list.
+  // 16 / 16e / 17 aren't on that list yet — left at 0 until real prices are supplied.
+  var genBaseIncell   = { x: 70, xr: 70, xs: 70, 11: 80, 12: 80, 13: 85, 14: 100, 15: 120, 16: 0, '16e': 0, 17: 0 };
+  var genOledPremium  = { x: 50, xr: 50, xs: 50, 11: 50, 12: 50, 13: 50, 14: 50, 15: 50, 16: 50, '16e': 50, 17: 50 };
+  var genProAddOn     = { x: 0, xr: 0, xs: 0, 11: 10, 12: 10, 13: 35, 14: 40, 15: 30, 16: 0, '16e': 0, 17: 0 };
+  var tierAddOn       = { standard: 0, mini: 0, max: 0, plus: 0, air: 0 };
 
   function priceFor(gen, tier, type) {
-    var incell = genBaseIncell[gen] + (tierAddOn[tier] || 0);
+    var sizeAddOn = (tier === 'pro' || tier === 'promax') ? (genProAddOn[gen] || 0) : (tierAddOn[tier] || 0);
+    var incell = genBaseIncell[gen] + sizeAddOn;
     return type === 'oled' ? incell + genOledPremium[gen] : incell;
   }
 
   var state = { gen: '13', tier: 'standard', type: 'incell' };
 
+  // XR and the 11 (standard, not Pro/Pro Max) shipped with Incell/LCD from the factory —
+  // no Soft OLED upgrade is offered for those.
+  function oledAvailable(gen, tier) {
+    if (gen === 'xr') return false;
+    if (gen === '11' && tier === 'standard') return false;
+    return true;
+  }
+
   var genGrid = document.getElementById('genGrid');
   var tierGrid = document.getElementById('tierGrid');
   var typeCards = document.querySelectorAll('.type-card');
+  var oledCard = document.querySelector('.type-card[data-type="oled"]');
+  var oledNote = document.getElementById('oledNote');
   var amountEl = document.querySelector('.price-row .amt');
   var summaryEl = document.querySelector('.summary-line .txt');
 
@@ -419,6 +432,11 @@
   }
 
   function render() {
+    var hasOled = oledAvailable(state.gen, state.tier);
+    if (!hasOled) state.type = 'incell';
+    if (oledCard) oledCard.style.display = hasOled ? '' : 'none';
+    if (oledNote) oledNote.style.display = hasOled ? 'none' : '';
+
     genGrid.querySelectorAll('.model-swatch').forEach(function (b) {
       var active = b.dataset.gen === state.gen;
       b.classList.toggle('is-active', active);

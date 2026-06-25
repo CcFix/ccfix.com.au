@@ -381,14 +381,18 @@
   var tierLabels = { standard: 'Standard', mini: 'mini', plus: 'Plus', pro: 'Pro', promax: 'Pro Max', max: 'Max', air: 'Air' };
 
   // PRICES: edit the numbers below to change what shows on the page.
-  // Prices temporarily zeroed out — to be filled in before this page goes live.
+  // Source: CCFix Jan/2026 price list (iPhone Battery - AF). Pro and Pro Max share the same price, per that list.
+  // 16 / 16e / 17 aren't on that list yet — left at 0 until real prices are supplied.
   // genBase = the price for the "standard" size of that iPhone generation.
-  var genBase = { x: 0, xr: 0, xs: 0, 11: 0, 12: 0, 13: 0, 14: 0, 15: 0, 16: 0, '16e': 0, 17: 0 };
-  // tierAddOn = how much more (or less) to add on top of genBase for that size. mini is cheaper, Pro Max is dearer.
-  var tierAddOn = { standard: 0, mini: 0, max: 0, plus: 0, pro: 0, promax: 0, air: 0 };
+  var genBase = { x: 60, xr: 60, xs: 60, 11: 70, 12: 70, 13: 85, 14: 100, 15: 120, 16: 0, '16e': 0, 17: 0 };
+  // tierAddOn = how much more (or less) to add on top of genBase for that size (mini/Plus/Air/Max match standard, per price list).
+  var tierAddOn = { standard: 0, mini: 0, max: 0, plus: 0, air: 0 };
+  // genProAddOn = Pro/Pro Max add-on, which varies by generation (not a flat amount across all generations).
+  var genProAddOn = { x: 0, xr: 0, xs: 0, 11: 10, 12: 10, 13: 35, 14: 40, 15: 30, 16: 0, '16e': 0, 17: 0 };
 
   function priceFor(gen, tier) {
-    return genBase[gen] + (tierAddOn[tier] || 0);
+    var sizeAddOn = (tier === 'pro' || tier === 'promax') ? (genProAddOn[gen] || 0) : (tierAddOn[tier] || 0);
+    return genBase[gen] + sizeAddOn;
   }
 
   var state = { gen: '13', tier: 'standard' };
