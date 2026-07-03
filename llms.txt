@@ -15,6 +15,9 @@ CCFix is a boutique device repair bench based at 95B Tallawong Rd, Rouse Hill NS
 - [iPhone Screen Replacement](https://ccfix.com.au/iphone-screen-replacement/): Pick model and screen type (Incell or Soft OLED), instant price, X through 16.
 - [iPhone Battery Replacement](https://ccfix.com.au/iphone-battery-replacement/): Pick model, instant price, premium aftermarket battery, X through 17.
 - [iPhone 11 Screen Repair](https://ccfix.com.au/iphone-11-screen-repair/): iPhone 11 display replacement.
+- [iPhone 12 Screen Repair](https://ccfix.com.au/iphone-12-screen-repair/): iPhone 12, 12 mini and 12 Pro display replacement.
+- [iPhone 13 Screen Repair](https://ccfix.com.au/iphone-13-screen-repair/): iPhone 13, 13 mini and 13 Pro display replacement.
+- [iPhone 14 Screen Repair](https://ccfix.com.au/iphone-14-screen-repair/): iPhone 14, 14 Plus and 14 Pro display replacement.
 - [iPhone 15 Pro Screen Repair](https://ccfix.com.au/iphone-15-pro-screen-repair/): iPhone 15 Pro Soft OLED display replacement.
 - [iPhone Camera Repair](https://ccfix.com.au/iphone-back-front-camera-repair/): Front and back camera diagnosis and repair.
 - [iPhone Back Glass Repair](https://ccfix.com.au/iphone-back-glass-repair/): Rear glass replacement with wireless charging coil check.
@@ -53,6 +56,7 @@ CCFix is a boutique device repair bench based at 95B Tallawong Rd, Rouse Hill NS
 - [Laptop & MacBook Repairs hub](https://ccfix.com.au/laptop/): Screens, batteries, keyboards and more — Windows and Mac, most brands.
 - [Laptop Screen Repair, Sydney](https://ccfix.com.au/laptop-screen-repair/): Display replacement across most laptop brands and models.
 - [Laptop Battery Replacement](https://ccfix.com.au/laptop-battery-replacement/): Battery health check and replacement.
+- [MacBook Battery Replacement](https://ccfix.com.au/macbook-battery-replacement/): Battery replacement for MacBook Air and Pro, Intel and Apple silicon.
 - [Laptop Bezel Repair](https://ccfix.com.au/laptop-bezel-repair/): Screen bezel repair and replacement.
 - [MacBook Screen Replacement](https://ccfix.com.au/macbook-screen-replacement/): Display replacement across MacBook Pro, Air and older Mac laptops.
 - [MacBook Air Screen Replacement](https://ccfix.com.au/macbook-air-screen-replacement/): Liquid Retina panel replacement for modern MacBook Air.
@@ -60,6 +64,10 @@ CCFix is a boutique device repair bench based at 95B Tallawong Rd, Rouse Hill NS
 - [Laptop Screen Replacement, Australia](https://ccfix.com.au/laptop-screen-replacement-australia/): Full display assembly replacement across most brands.
 - [Dell Laptop Screen Repair](https://ccfix.com.au/dell-laptop-broken-screen/): Display repair for Inspiron, XPS and Latitude ranges.
 - [Computer Repairs in Merrylands](https://ccfix.com.au/computer-repairs-merrylands/): Local laptop and desktop repair bench serving Merrylands, Parramatta, Guildford.
+
+## iPad Repairs
+
+- [iPad Screen Repair](https://ccfix.com.au/ipad-screen-repair/): Glass and display repair for iPad, iPad Air, iPad mini and iPad Pro.
 
 ## Other Phone Brands
 
