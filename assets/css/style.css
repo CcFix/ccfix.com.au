@@ -268,7 +268,7 @@ section.band.tight{ padding:56px 0; }
   padding:8px 8px 26px; transition:transform .2s;
 }
 .bench-photo:hover{ transform:translateY(-3px); }
-.bench-photo img{ width:100%; aspect-ratio:570/760; object-fit:cover; display:block; }
+.bench-photo img{ width:100%; height:auto; aspect-ratio:570/760; object-fit:cover; display:block; }
 .bench-photo .cap{
   display:block; margin-top:9px; text-align:center;
   font-family:var(--mono); font-size:10px; letter-spacing:.09em; text-transform:uppercase; color:var(--ink-faint);
