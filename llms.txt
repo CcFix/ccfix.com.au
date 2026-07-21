@@ -20,6 +20,8 @@ CCFix is a boutique device repair bench based at 95B Tallawong Rd, Rouse Hill NS
 - [iPhone 13 Screen Repair](https://ccfix.com.au/iphone-13-screen-repair/): iPhone 13, 13 mini and 13 Pro display replacement.
 - [iPhone 14 Screen Repair](https://ccfix.com.au/iphone-14-screen-repair/): iPhone 14, 14 Plus and 14 Pro display replacement.
 - [iPhone 15 Pro Screen Repair](https://ccfix.com.au/iphone-15-pro-screen-repair/): iPhone 15 Pro Soft OLED display replacement.
+- [iPhone 15 Screen Repair](https://ccfix.com.au/iphone-15-screen-repair/): iPhone 15 and 15 Plus display replacement.
+- [iPhone 16 Screen Repair](https://ccfix.com.au/iphone-16-screen-repair/): iPhone 16, 16 Plus, 16e and 16 Pro display repair.
 - [iPhone Camera Repair](https://ccfix.com.au/iphone-back-front-camera-repair/): Front and back camera diagnosis and repair.
 - [iPhone Back Glass Repair](https://ccfix.com.au/iphone-back-glass-repair/): Rear glass replacement with wireless charging coil check.
 - [iPhone Battery Repair](https://ccfix.com.au/iphone-battery-repair/): Battery health check and replacement.
@@ -32,6 +34,8 @@ CCFix is a boutique device repair bench based at 95B Tallawong Rd, Rouse Hill NS
 
 - [Samsung Galaxy Repairs hub](https://ccfix.com.au/galaxy/): Screens, batteries, charging ports, cameras and back glass across Galaxy S, A and Note.
 - [Samsung Galaxy Screen Replacement](https://ccfix.com.au/samsung-galaxy-screen-replacement/): Curved AMOLED display replacement.
+- [Samsung Galaxy S23 Screen Replacement](https://ccfix.com.au/samsung-galaxy-s23-screen-replacement/): Display replacement for S23, S23+, S23 Ultra and S23 FE.
+- [Samsung Galaxy S24 Screen Replacement](https://ccfix.com.au/samsung-galaxy-s24-screen-replacement/): Display replacement for S24, S24+, S24 Ultra and S24 FE.
 - [Samsung Galaxy Battery Replacement](https://ccfix.com.au/samsung-galaxy-battery-replacement/): Battery health check and replacement.
 - [Samsung Galaxy Back Glass Replacement](https://ccfix.com.au/samsung-galaxy-back-glass-replacement/): Rear glass replacement, wireless charging and seal check.
 - [Samsung Galaxy Camera Repairs](https://ccfix.com.au/samsung-galaxy-camera-repairs/): Camera fault diagnosis and repair.
@@ -98,7 +102,7 @@ CCFix is a boutique device repair bench based at 95B Tallawong Rd, Rouse Hill NS
 - [Broken Laptop Screen — Is It Worth Fixing?](https://ccfix.com.au/broken-laptop-screen/): Guide to deciding whether a broken laptop screen is worth repairing.
 - [Can Laptop Screens Be Repaired?](https://ccfix.com.au/can-laptop-screens-be-repaired/): Guide to what's involved in laptop screen repair.
 - [How Much Does a Laptop Screen Repair Cost?](https://ccfix.com.au/how-much-does-laptop-screen-repair-cost/): Guide to laptop screen repair pricing factors.
-- [What Goes Into a MacBook Screen Repair](https://ccfix.com.au/how-much-macbook-screen-repair-cost/): Guide to MacBook screen repair pricing factors.
+- [MacBook Screen Repair Cost](https://ccfix.com.au/how-much-macbook-screen-repair-cost/): Guide to MacBook screen repair cost factors.
 - [Sorting Out an HP Laptop Screen](https://ccfix.com.au/how-much-to-repair-hp-laptop-screen/): Guide to HP laptop screen repair pricing factors.
 - [Repair the Screen, or Replace It Outright?](https://ccfix.com.au/how-much-to-replace-laptop-screen/): Guide to choosing between screen repair and replacement.
 - [Notebook Screen Repairs Explained](https://ccfix.com.au/notebook-screen-repair-cost/): Guide to notebook/ultraportable screen repair.
